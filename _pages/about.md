@@ -14,6 +14,7 @@ My interests are in machine learning, data science, and software engineering.
 
 Specifically, I have interests in recommendation systems, like the ones that govern some of the biggest social media applications, human-computer interaction, and computer-vision.
 
+
 My Story
 ======
 
@@ -22,6 +23,7 @@ My academic journey fuses technical skills with interdisciplinary interests. As 
 Eager to expand my skillset, I honed my programming abilities across diverse domains in the MSCS Ready Program. Now pursuing a Master’s at NC State University, I’m diving deeper into areas like machine learning and data science, while connecting techniques to high-level applications.
 
 Get in touch and let's have a chat about how we can work together. Connect with me on LinkedIn (linkedin.com/in/wesleymeredith/) or explore my coding endeavors on GitHub (github.com/wesleymeredith) 🚀🧬
+
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
