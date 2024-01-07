@@ -14,9 +14,6 @@ This realization sparked a profound interest in exploring the vast possibilities
 
 Join me on this interdisciplinary adventure as we discover how the fusion of biology and technology can reshape our understanding of the world. Connect with me on LinkedIn (linkedin.com/in/wesleymeredith/) or explore my coding endeavors on GitHub (github.com/wesleymeredith). Let's innovate together! 🚀🧬
 
-An unconventional start...
-======
-Hello!
 
 <!-- Getting started
 ======
