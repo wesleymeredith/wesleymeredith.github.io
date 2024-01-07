@@ -17,13 +17,11 @@ Specifically, I have interests in recommendation systems, like the ones that gov
 My Story
 ======
 
-Wesley Meredith, a passionate professional navigating the realms of biochemistry and computer science. My academic journey began with a Bachelor's in Biochemistry at Clemson University, where my first research project, creating a Markov model, opened my eyes to the powerful applications of machine learning and coding in the biochemical field. 
+My academic journey fuses technical skills with interdisciplinary interests. As a student earning my Biochemistry Bachelor’s at Clemson University, my first research project building a Markov model opened my eyes. I saw first-hand how computing technologies could advance innovations across disciplines. I realized that leveraging data, modeling, and analysis can illuminate solutions to multifaceted real-world problems.
 
-This realization sparked a profound interest in exploring the vast possibilities of applying computational techniques to solve complex biological problems. Transitioning to the MSCS Ready Program, I honed my coding skills, and now, as a Master's candidate at NC State University, I'm delving into the exciting worlds of machine learning and data science. 
+Eager to expand my skillset, I honed my programming abilities across diverse domains in the MSCS Ready Program. Now pursuing a Master’s at NC State University, I’m diving deeper into areas like machine learning and data science, while connecting techniques to high-level applications.
 
-Join me on this interdisciplinary adventure as we discover how the fusion of biology and technology can reshape our understanding of the world. Get in touch and let's have a chat about how we can work together. Connect with me on LinkedIn (linkedin.com/in/wesleymeredith/) or explore my coding endeavors on GitHub (github.com/wesleymeredith) 🚀🧬
-
-
+Get in touch and let's have a chat about how we can work together. Connect with me on LinkedIn (linkedin.com/in/wesleymeredith/) or explore my coding endeavors on GitHub (github.com/wesleymeredith) 🚀🧬
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
