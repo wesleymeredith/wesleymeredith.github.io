@@ -1,6 +1,6 @@
 ---
 title: "Spotify 'Wrapped' Clone"
-excerpt: "Displaying user statistics via the Spotify API <br/>"
+excerpt: "Displaying user statistics via the Spotify API. <br/>"
 collection: portfolio
 ---
 
