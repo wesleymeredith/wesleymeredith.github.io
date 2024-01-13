@@ -4,4 +4,4 @@ excerpt: "Analyzed and predicted housing prices in the Ames dataset using differ
 collection: portfolio
 ---
 
-https://github.com/wesleymeredith/Ames-Housing-Project/blob/main/README.md
+[https://github.com/wesleymeredith/Ames-Housing-Project/blob/main/README.md](https://github.com/wesleymeredith/Ames-Housing-Project/blob/main/README.md)
