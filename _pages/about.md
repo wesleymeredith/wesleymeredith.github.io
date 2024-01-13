@@ -18,7 +18,7 @@ redirect_from:
 My Story
 ======
 
-My path towards data-driven solutions began with a Biochemistry B.S. at Clemson University. There, I tackled real-world challenges through research, culminating in a peer-reviewed published [paper]{https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011082}. Building a Markov model not only yielded valuable insights but also opened my eyes to the power of computational approaches in scientific discovery. This sparked my passion for bridging the gap between theoretical knowledge and practical applications. 
+My path towards data-driven solutions began with a Biochemistry B.S. at Clemson University. There, I tackled real-world challenges through research, culminating in a peer-reviewed published [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.101082). Building a Markov model not only yielded valuable insights but also opened my eyes to the power of computational approaches in scientific discovery. This sparked my passion for bridging the gap between theoretical knowledge and practical applications. 
 
 To refine my technical skills, I enrolled in the MSCS Ready Program at Clemson, mastering fundamental programming concepts. Currently, at NC State University, I'm pursuing a Master's in Computer Science, diving deeper into the exciting realms of machine learning, data science, and software-engineering. My drive lies in transforming complex data into actionable solutions, constantly seeking to leverage these powerful tools to make a tangible impact in the world.
 
