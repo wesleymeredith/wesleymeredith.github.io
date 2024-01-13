@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm in my first year of a M.S. in Computer Science at NC State University in Raleigh, NC.
+- I'm in my first year of a M.S. in Computer Science at NC State University in Raleigh, NC.
 
-My interests are in machine learning, data science, and software engineering.
+- My interests are in machine learning, data science, and software engineering.
 
-Specifically, I have interests in recommendation systems, like the ones that govern some of the biggest social media applications, human-computer interaction, and computer-vision.
+- Specifically, I have interests in recommendation systems, like the ones that govern some of the biggest social media applications, human-computer interaction, and computer-vision.
 
 
 My Story
