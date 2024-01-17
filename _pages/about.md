@@ -22,7 +22,7 @@ My path towards data-driven solutions began with a Biochemistry B.S. at Clemson 
 
 To refine my technical skills, I enrolled in the MSCS Ready Program at Clemson, mastering fundamental programming concepts. Currently, at NC State University, I'm pursuing a Master's in Computer Science, diving deeper into the exciting realms of machine learning, data science, and software-engineering.
 
-Get in touch and let's have a chat about how we can work together. Connect with me on [LinkedIn](linkedin.com/in/wesleymeredith/) or explore my coding endeavors on [GitHub](github.com/wesleymeredith) 🚀🧬
+Get in touch and let's have a chat about how we can work together. Connect with me on [LinkedIn](https://linkedin.com/in/wesleymeredith/) or explore my coding endeavors on [GitHub](https://github.com/wesleymeredith) 🚀🧬
 
 <!-- Getting started
 ======
