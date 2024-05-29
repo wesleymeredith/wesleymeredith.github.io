@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-- I'm in my first year of a M.S. in Computer Science at NC State University in Raleigh, NC.
+- I'm in my final year of a M.S. in Computer Science at NC State University in Raleigh, NC.
 
 - My interests are in machine learning, data science, and software engineering.
 
-- Specifically, I have interests in recommendation systems, like the ones that govern some of the biggest social media applications, human-computer interaction, and computer-vision.
+- Specifically, I have interests in recommendation systems, like the ones that govern some of the biggest social media applications, GenAI, NLP, human-computer interaction and computer-vision.
 
 
 My Story
 ======
 
-My path towards data-driven solutions began with a Biochemistry B.S. at Clemson University. There, I tackled real-world challenges through research, culminating in a peer-reviewed published [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011082). Building a Markov model not only yielded valuable insights but also opened my eyes to the power of computational approaches in scientific discovery. This sparked my passion for bridging the gap between theoretical knowledge and practical applications. 
+My journey began with a Bachelor's Degree in Biochemistry at Clemson University. During my time there, I tackled real-world challenges through research, culminating in a peer-reviewed published [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011082) on building a Markov model to yield valuable insights into a scientific problem. This experience opened my eyes to the potential of computational approaches in driving scientific discovery. Fueled by a passion to bridge the gap between theoretical knowledge and practical applications, I enrolled in the MSCS Ready Program at Clemson to hone my computer science and programming skills.
 
-To refine my technical skills, I enrolled in the MSCS Ready Program at Clemson, mastering fundamental programming concepts. Currently, at NC State University, I'm pursuing a Master's in Computer Science, diving deeper into the exciting realms of machine learning, data science, and software-engineering.
+Currently, I'm pursuing a Master's in Computer Science at NC State University, diving deeper into the exciting realms of machine learning, data science, and software engineering. My goal is to leverage cutting-edge technologies to solve complex problems and make a tangible impact.
+
+Also currently, I am spending the summer with Michelin in Greenville, SC as a data scientist intern working on LLMs, Retreival Augmented Generation, and forecasting.
 
 Get in touch and let's have a chat about how we can work together. Connect with me on [LinkedIn](https://linkedin.com/in/wesleymeredith/) or explore my coding endeavors on [GitHub](https://github.com/wesleymeredith) 🚀🧬
 
