@@ -22,7 +22,7 @@ My journey began with a Bachelor's Degree in Biochemistry at Clemson University.
 
 Currently, I'm pursuing a Master's in Computer Science at NC State University, diving deeper into the areas of machine learning, data science, and software engineering.
 
-Also currently, I am spending the summer with Michelin in Greenville, SC as a data scientist intern working on LLMs, Retreival Augmented Generation, and forecasting. More on this soon...
+Also currently, I am spending the summer with Michelin in Greenville, SC as a data scientist intern working on LLMs, Retreival-Augmented Generation, and forecasting. More on this soon...
 
 Get in touch and let's have a chat about how we can work together. Connect with me on [LinkedIn](https://linkedin.com/in/wesleymeredith/) or explore my coding endeavors on [GitHub](https://github.com/wesleymeredith) 🚀🧬
 
