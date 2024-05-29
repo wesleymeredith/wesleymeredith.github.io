@@ -18,7 +18,7 @@ redirect_from:
 My Story
 ======
 
-My journey began with a Bachelor's Degree in Biochemistry at Clemson University. During my time there, I tackled real-world challenges through research, culminating in a peer-reviewed published [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011082) on building a Markov model to yield valuable insights into a scientific problem. This experience opened my eyes to the potential of computational approaches in driving scientific discovery. Fueled by a passion to bridge the gap between theoretical knowledge and practical applications, I enrolled in the MSCS Ready Program at Clemson to hone my computer science and programming skills.
+My journey began with a Bachelor's Degree in Biochemistry at Clemson University. During my time there, I tackled real-world challenges through research, culminating in a peer-reviewed published [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011082) on building a Markov model to predict cancer drug combinations. This experience opened my eyes to the potential of computational approaches in driving scientific discovery. Fueled by a passion to bridge the gap between theoretical knowledge and practical applications, I enrolled in the MSCS Ready Program at Clemson to hone my computer science and programming skills.
 
 Currently, I'm pursuing a Master's in Computer Science at NC State University, diving deeper into the exciting realms of machine learning, data science, and software engineering. My goal is to leverage cutting-edge technologies to solve complex problems and make a tangible impact.
 
