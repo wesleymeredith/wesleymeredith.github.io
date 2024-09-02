@@ -12,7 +12,7 @@ redirect_from:
 
 - My interests are in machine learning, data science, and software engineering.
 
-- Specifically, I have interests, GenAI, NLP, recommendation systems, and computer-vision.
+- Specifically, I have interests in GenAI, NLP, recommendation systems, and computer-vision.
 
 
 My Story
@@ -22,7 +22,7 @@ My journey began with a Bachelor's Degree in Biochemistry at Clemson University.
 
 Currently, I'm pursuing a Master's in Computer Science at NC State University, diving deeper into the areas of machine learning, data science, and software engineering.
 
-I spent the summer of 2024 with Michelin in Greenville, SC as a data scientist intern working on LLMs, Retreival-Augmented Generation, and forecasting. I was able to increase the accuracy of their tire market potential forecasts, and engineer a tool for employees to chat with about HR related issues. I also got experience with cloud computing tools and distributed compute like Azure and Databricks.
+I spent the summer of 2024 with Michelin in Greenville, SC as a data scientist intern working on LLMs, Retreival-Augmented Generation, and forecasting. I was able to increase the accuracy of their tire market potential forecasts, and engineer a GenAI tool for employees to chat with about HR related issues. I also got experience with cloud computing tools and distributed compute like Azure and Databricks.
 
 Needless to say, I am excited about applying my data science and machine learning skills to help discover new things for your organization.
 
