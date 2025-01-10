@@ -10,7 +10,7 @@ This project was inspired by personal experiences during the gap year between my
 
 The system relies on the **Eye Aspect Ratio (EAR)**, a metric detailed in [this paper](https://www.sciencedirect.com/science/article/pii/S2667241322000039#fig0001), to measure eye closure.
 
-![Illustration of EAR calculation](C:\Users\Wesley\Desktop\CODE\website_v2\wesleymeredith.github.io\images\eyes.jpg)
+![Illustration of EAR calculation](../images/eyes.jpg)
 
 ### Setup & Installation  
 This project is implemented in Python and leverages the following libraries:  
@@ -50,5 +50,6 @@ if avg_EAR < EAR_THRESHOLD:
         engine.runAndWait()  
 ```
 And it looks something like this:
-![EyeOpen](images/eye_open.jpg)
-![EyeClose](images/eye_close.jpg)
+![Illustration of EAR calculation](../images/eyes.jpg)
+![EyeOpen](../images/eye_open.png)
+![EyeClose](../images/eye_close.png)
