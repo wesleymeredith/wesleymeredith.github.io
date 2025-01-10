@@ -6,11 +6,11 @@ collection: portfolio
 
 [https://github.com/wesleymeredith/Drowsiness-Detection](https://github.com/wesleymeredith/Drowsiness-Detection)
 
-This project was inspired by personal experiences during the gap year between my undergraduate and graduate studies. While attending night classes in computer science after long days of research at a laboratory in Raleigh, NC, I often struggled to stay awake during Zoom lectures. This led me to design a drowsiness detector that monitors eye activity using a webcam and alerts users with an audio cue when signs of drowsiness are detected.  
+This project was inspired by personal experiences during the gap year between my undergraduate and graduate studies. While attending night classes in computer science after my full-time research job at a laboratory in Raleigh, NC, I sometimes struggled to stay awake during Zoom lectures. This led me to design a drowsiness detector that monitors eye activity using a webcam and alerts users with an audio cue when signs of drowsiness are detected.  
 
 The system relies on the **Eye Aspect Ratio (EAR)**, a metric detailed in [this paper](https://www.sciencedirect.com/science/article/pii/S2667241322000039#fig0001), to measure eye closure.
 
-![Illustration of EAR calculation](images/eyes.jpg)
+![Illustration of EAR calculation](C:\Users\Wesley\Desktop\CODE\website_v2\wesleymeredith.github.io\images\eyes.jpg)
 
 ### Setup & Installation  
 This project is implemented in Python and leverages the following libraries:  
@@ -19,7 +19,7 @@ This project is implemented in Python and leverages the following libraries:
 - **pyttsx3**: To generate audio alerts.  
 - **scipy**: For EAR/Euclidean distance calculations and .  
 
-For detailed instructions, see the [README](https://github.com/wesleymeredith/Drowsiness-Detection).  
+For detailed instructions regarding installation, see the [README](https://github.com/wesleymeredith/Drowsiness-Detection).  
 
 ### Methods  
 The program uses dlib to detect facial landmarks, focusing on the regions around the eyes. The Eye Aspect Ratio (EAR) is a scalar value that is calculated by determining ratio of Euclidean distances between specific eye landmarks. If the EAR drops below a predefined threshold for more than one second, the system detects drowsiness and issues an alert.  
