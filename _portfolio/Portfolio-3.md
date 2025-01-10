@@ -11,6 +11,8 @@ This project was inspired by personal experiences during the gap year between my
 The system relies on the **Eye Aspect Ratio (EAR)**, a metric detailed in [this paper](https://www.sciencedirect.com/science/article/pii/S2667241322000039#fig0001), to measure eye closure.
 
 ![Illustration of EAR calculation](../images/eyes.jpg)
+<img src='/images/eyes.jpg'>
+
 
 ### Setup & Installation  
 This project is implemented in Python and leverages the following libraries:  
