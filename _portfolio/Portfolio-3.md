@@ -50,6 +50,5 @@ if avg_EAR < EAR_THRESHOLD:
         engine.runAndWait()  
 ```
 And it looks something like this:
-![Illustration of EAR calculation](../images/eyes.jpg)
 ![EyeOpen](../images/eye_open.png)
 ![EyeClose](../images/eye_close.png)
