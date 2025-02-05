@@ -42,7 +42,7 @@ Our ANN implementation saw significant improvements through architectural optimi
 Interestingly, hyperparameter tuning showed minimal impact compared to feature engineering, suggesting that model architecture and data quality were more crucial than parameter optimization for this particular problem.
 
 ## Final Thoughts/Future Work
-This project was my first end-to-end data science project. There was a lot to uncover and learn from doing an entire project for the first time, like how important the cleaning and transformation of the data is. I also really liked how...
+This project was my first end-to-end data science project. There was a lot to uncover and learn from doing an entire project for the first time, like how important the cleaning and transformation of the data is.
 
 If I were to come back to this project in the future, I would integrate maybe some ensembling approaches and emphasize a lot more importance on the EDA.
 
