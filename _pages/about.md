@@ -12,7 +12,7 @@ redirect_from:
 
 - My interests are in machine learning, data science, and software engineering.
 
-- Specifically, I have interests in GenAI, NLP, recommendation systems, and computer-vision.
+- Specifically, I have interests in NLP, causal inference, recommendation systems, and computer-vision.
 
 
 My Story
