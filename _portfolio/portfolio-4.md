@@ -13,5 +13,7 @@ In addition to the sentiment analysis, the web app presents the results in a str
 For a closer look at the project, you can view the full code on [GitHub](https://github.com/wesleymeredith/Financial-News-Sentiment-Analysis).
 
 Here's a screenshot from the tool, here I entered in NVIDIA's stock ticker NVDA:
-<!-- <img src='/images/eye_open.png'>
-<img src='/images/eye_close.png'> -->
+<img src='/images/senti2.png'>
+<img src='/images/senti1.png'>
+
+There might be some future plans to integrate a paid API if I were to seriously market this because on further inspection this News.org api can be too general when it comes to web scraping.
