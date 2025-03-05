@@ -12,6 +12,6 @@ In addition to the sentiment analysis, the web app presents the results in a str
 
 For a closer look at the project, you can view the full code on [GitHub](https://github.com/wesleymeredith/Financial-News-Sentiment-Analysis).
 
-And it looks something like this:
+Here's a screenshot from the tool, here I entered in NVIDIA's stock ticker NVDA:
 <!-- <img src='/images/eye_open.png'>
 <img src='/images/eye_close.png'> -->
