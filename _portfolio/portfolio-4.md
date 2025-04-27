@@ -8,7 +8,7 @@ This project involved the development of a **Flask** web application designed to
 
 The application pulls real-time news data using the **News.org API**, ensuring that the articles analyzed are relevant to the user's stock ticker of interest. To prepare the text for BERT input, preprocessing steps like case normalization, tokenization, and punctuation handling were applied.
 
-By leveraging the power of BERT, the tool can offer deeper insights into the sentiment behind news articles—whether positive, negative, or neutral—even when the sentiment is subtle or implied through context.
+BERT is a powerful tranformer for this problem, so it can offer deeper insights into the sentiment behind news articles, whether positive, negative, or neutral, even when the sentiment is subtle or implied through context.
 
 The results are displayed in an interactive table format, making it easy for users to browse sentiment trends and relate them to potential stock market movements. This clean and intuitive interface supports smarter, data-driven investment decisions.
 
